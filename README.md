@@ -1,1 +1,1 @@
-# pwn
+# CTF Challenge
